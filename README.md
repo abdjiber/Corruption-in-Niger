@@ -28,5 +28,5 @@ I used an [open data](http://www.afrobarometer.org/fr/data/donnees-fusionnees-de
 1. The most common type of corruption in Niger in 2011 is election corruption.
 2. People with no formal schooling or informal schooling (including Koranic schooling) are the most affected, particularly women.
 3. The region Tillabérie is the most affected by this kind of corruption.
-4. A random forest classifier is able to predict with an accuracy of 91% if a person had at least once experienced an election corruption
-or not with a sensivity respectively of 88% and 94%.
+4. A random forest classifier is able to predict with an accuracy of __91%__ if a person had at least once experienced an election corruption
+or not with a sensivity respectively of __88%__ and __94%__.

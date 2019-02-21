@@ -5,7 +5,7 @@ The goal of this project is to understand corruption in Niger using Machine Lear
 ## Files in the repository
 1. __Niger.ipynb__: the Jupiter Notebook code.
 2. __converting_sav_file_to_csv.R__: R code to convert a .sav file to .csv.
-3. __set_values__: a module contenaing a dictionnary that could be use to merge some questions responses.
+3. __set_values.py__: a Python module contenaing a dictionnary that could be use to merge some questions responses.
 
 ## Data source
 I used an [open data](http://www.afrobarometer.org/fr/data/donnees-fusionnees-de-la-serie-5-34-pays-2015) from an opinion survey by [Afro Barometer](http://www.afrobarometer.org/fr).
